@@ -12,3 +12,4 @@ C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\obj
 C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\obj\Debug\net8.0\practiceC#.pdb
 C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\obj\Debug\net8.0\practiceC#.genruntimeconfig.cache
 C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\obj\Debug\net8.0\ref\practiceC#.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\obj\Debug\net8.0\practiceC#.sourcelink.json
