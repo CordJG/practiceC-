@@ -1,19 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System;
-using U
+using ConsoleApp2;
+using practiceC_;
+
 
 namespace HelloWrold
-{   
-    class Print
-    {
-        public void PrintOut(string str)
-        {
-            Console.WriteLine(str);
-        }
-
-        delegate void PrintDelegate(string str);
-    }
+{
 
     delegate void PrintDelegate(string str);
     class Program
@@ -44,6 +37,16 @@ namespace HelloWrold
             int num = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine(num);
+
+            ConsoleApp2.Program.Main(); // 다른 클래스 참조
+
+            PrintTxt pt = new PrintTxt();
+            pt.Print("외부 클래스 호출");
+
+          
+            PrintName pn = new PrintName();
+            pn.Print(inputName);
+
         }
     }
     

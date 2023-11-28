@@ -1,0 +1,12 @@
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MyDLL\MyDLL\bin\Debug\net8.0\MyDLL.deps.json
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MyDLL\MyDLL\bin\Debug\net8.0\MyDLL.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MyDLL\MyDLL\bin\Debug\net8.0\MyDLL.pdb
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MyDLL\MyDLL\obj\Debug\net8.0\MyDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MyDLL\MyDLL\obj\Debug\net8.0\MyDLL.AssemblyInfoInputs.cache
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MyDLL\MyDLL\obj\Debug\net8.0\MyDLL.AssemblyInfo.cs
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MyDLL\MyDLL\obj\Debug\net8.0\MyDLL.csproj.CoreCompileInputs.cache
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MyDLL\MyDLL\obj\Debug\net8.0\MyDLL.sourcelink.json
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MyDLL\MyDLL\obj\Debug\net8.0\MyDLL.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MyDLL\MyDLL\obj\Debug\net8.0\refint\MyDLL.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MyDLL\MyDLL\obj\Debug\net8.0\MyDLL.pdb
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MyDLL\MyDLL\obj\Debug\net8.0\ref\MyDLL.dll

@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "practiceC#/1.0.0": {
+        "dependencies": {
+          "ConsoleApp2": "1.0.0"
+        },
         "runtime": {
           "practiceC#.dll": {}
+        }
+      },
+      "ConsoleApp2/1.0.0": {
+        "runtime": {
+          "ConsoleApp2.dll": {}
         }
       }
     }
   },
   "libraries": {
     "practiceC#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleApp2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "ConsoleApp2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ConsoleApp2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleApp2.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ConsoleApp2/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleApp2/ConsoleApp2.csproj",
+      "msbuildProject": "../ConsoleApp2/ConsoleApp2.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "ConsoleApp2 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\wjrmf\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\wjrmf\\OneDrive\\바탕 화면\\내 프로젝트\\practiceC#\\ConsoleApp2\\ConsoleApp2.csproj": {
+              "projectPath": "C:\\Users\\wjrmf\\OneDrive\\바탕 화면\\내 프로젝트\\practiceC#\\ConsoleApp2\\ConsoleApp2.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
