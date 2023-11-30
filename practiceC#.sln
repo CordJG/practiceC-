@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KioskProgram", "KioskProgram\KioskProgram.csproj", "{83D933B4-B545-49DD-98BC-AEDB7A0288CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTetris", "GameTetris\GameTetris.csproj", "{3F215DCD-D381-4EB6-99BE-3844F69365A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiosk", "Kiosk\Kiosk.csproj", "{136B0290-FE04-498B-9313-8FF8AD98148B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{83D933B4-B545-49DD-98BC-AEDB7A0288CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83D933B4-B545-49DD-98BC-AEDB7A0288CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83D933B4-B545-49DD-98BC-AEDB7A0288CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F215DCD-D381-4EB6-99BE-3844F69365A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F215DCD-D381-4EB6-99BE-3844F69365A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F215DCD-D381-4EB6-99BE-3844F69365A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F215DCD-D381-4EB6-99BE-3844F69365A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136B0290-FE04-498B-9313-8FF8AD98148B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136B0290-FE04-498B-9313-8FF8AD98148B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136B0290-FE04-498B-9313-8FF8AD98148B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136B0290-FE04-498B-9313-8FF8AD98148B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

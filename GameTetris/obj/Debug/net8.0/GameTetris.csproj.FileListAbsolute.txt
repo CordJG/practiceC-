@@ -1,0 +1,15 @@
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\bin\Debug\net8.0\GameTetris.exe
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\bin\Debug\net8.0\GameTetris.deps.json
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\bin\Debug\net8.0\GameTetris.runtimeconfig.json
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\bin\Debug\net8.0\GameTetris.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\bin\Debug\net8.0\GameTetris.pdb
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\obj\Debug\net8.0\GameTetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\obj\Debug\net8.0\GameTetris.AssemblyInfoInputs.cache
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\obj\Debug\net8.0\GameTetris.AssemblyInfo.cs
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\obj\Debug\net8.0\GameTetris.csproj.CoreCompileInputs.cache
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\obj\Debug\net8.0\GameTetris.sourcelink.json
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\obj\Debug\net8.0\GameTetris.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\obj\Debug\net8.0\refint\GameTetris.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\obj\Debug\net8.0\GameTetris.pdb
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\obj\Debug\net8.0\GameTetris.genruntimeconfig.cache
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\GameTetris\obj\Debug\net8.0\ref\GameTetris.dll

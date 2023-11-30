@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1QB9a/iR4IVFKLsxn481gzq5KqPvQ8cI1iGk9LYBN/TJ4mnzYBP7okt8QO9XZE5XXoSTesh0T6lVgw9BDIArgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wjrmf\\OneDrive\\바탕 화면\\내 프로젝트\\practiceC#\\Kiosk\\MqttTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wjrmf\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\wjrmf\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\wjrmf\\.nuget\\packages\\mqttnet\\4.3.1.873\\mqttnet.4.3.1.873.nupkg.sha512",
+    "C:\\Users\\wjrmf\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\wjrmf\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\wjrmf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\wjrmf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
