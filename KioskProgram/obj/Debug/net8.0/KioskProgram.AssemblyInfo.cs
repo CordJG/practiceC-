@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MyDLL")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("KioskProgram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("MyDLL")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MyDLL")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ac148ceadb078fac39bd613a40ba5bcb2784403")]
+[assembly: System.Reflection.AssemblyProductAttribute("KioskProgram")]
+[assembly: System.Reflection.AssemblyTitleAttribute("KioskProgram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

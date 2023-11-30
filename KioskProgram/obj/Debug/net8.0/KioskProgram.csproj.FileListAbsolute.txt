@@ -1,0 +1,15 @@
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\bin\Debug\net8.0\KioskProgram.exe
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\bin\Debug\net8.0\KioskProgram.deps.json
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\bin\Debug\net8.0\KioskProgram.runtimeconfig.json
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\bin\Debug\net8.0\KioskProgram.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\bin\Debug\net8.0\KioskProgram.pdb
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\KioskProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\KioskProgram.AssemblyInfoInputs.cache
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\KioskProgram.AssemblyInfo.cs
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\KioskProgram.csproj.CoreCompileInputs.cache
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\KioskProgram.sourcelink.json
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\KioskProgram.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\refint\KioskProgram.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\KioskProgram.pdb
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\KioskProgram.genruntimeconfig.cache
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\ref\KioskProgram.dll
