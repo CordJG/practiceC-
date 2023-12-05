@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ConsoleApp2\ConsoleApp2.csproj" />
+    <ProjectReference Include="..\KioskProgram\KioskProgram.csproj" />
   </ItemGroup>
 
 </Project>

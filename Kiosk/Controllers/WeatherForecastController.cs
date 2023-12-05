@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using KioskProgram;
 
 namespace Kiosk.Controllers
 {
@@ -28,6 +29,7 @@ namespace Kiosk.Controllers
                 Summary = Summaries[Random.Shared.Next(Summaries.Length)]
             })
             .ToArray();
+
         }
     }
 }

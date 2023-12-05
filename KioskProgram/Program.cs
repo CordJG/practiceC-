@@ -2,9 +2,9 @@
 using System;
 namespace KioskProgram
 {
-    internal class Program
+    public class Program
     {
-        private static void Main()
+        public static void Main()
         {
             var menuService = new Services.MenuService();
             var orderService = new Services.OrderService();

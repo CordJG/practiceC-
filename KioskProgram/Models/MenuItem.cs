@@ -8,7 +8,6 @@ namespace KioskProgram.Models
 {
     internal class MenuItem
     {
-        public int id;
         public string? Name { get; set; }
         public int Price { get; set; }
     }

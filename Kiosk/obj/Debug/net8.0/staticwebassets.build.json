@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "bhj8MZ5/O+n3PgoBYcrC2tLU8tje+znxbB9D7uv7tLo=",
-  "Source": "Kiosk",
-  "BasePath": "_content/Kiosk",
+  "Hash": "fHu1qFy0tZH+fYi34Ig0wKOauNzAzSx79+F4HaSS9Nk=",
+  "Source": "MqttTest",
+  "BasePath": "_content/MqttTest",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

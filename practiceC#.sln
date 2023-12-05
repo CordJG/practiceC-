@@ -7,11 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "practiceC#", "practiceC#\pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{15036929-E9A7-46FB-BA5D-C33115D4F267}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KioskProgram", "KioskProgram\KioskProgram.csproj", "{83D933B4-B545-49DD-98BC-AEDB7A0288CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KioskProgram", "KioskProgram\KioskProgram.csproj", "{83D933B4-B545-49DD-98BC-AEDB7A0288CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTetris", "GameTetris\GameTetris.csproj", "{3F215DCD-D381-4EB6-99BE-3844F69365A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameTetris", "GameTetris\GameTetris.csproj", "{3F215DCD-D381-4EB6-99BE-3844F69365A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiosk", "Kiosk\Kiosk.csproj", "{136B0290-FE04-498B-9313-8FF8AD98148B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MqttTest", "Kiosk\MqttTest.csproj", "{136B0290-FE04-498B-9313-8FF8AD98148B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{84A28C3B-3441-4E33-868B-44CC90184FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealSystem", "MealSystem\MealSystem.csproj", "{FA547EC6-A729-4499-8112-C6118FAFEAC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{136B0290-FE04-498B-9313-8FF8AD98148B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{136B0290-FE04-498B-9313-8FF8AD98148B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{136B0290-FE04-498B-9313-8FF8AD98148B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A28C3B-3441-4E33-868B-44CC90184FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A28C3B-3441-4E33-868B-44CC90184FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A28C3B-3441-4E33-868B-44CC90184FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A28C3B-3441-4E33-868B-44CC90184FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA547EC6-A729-4499-8112-C6118FAFEAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA547EC6-A729-4499-8112-C6118FAFEAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA547EC6-A729-4499-8112-C6118FAFEAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA547EC6-A729-4499-8112-C6118FAFEAC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

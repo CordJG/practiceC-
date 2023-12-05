@@ -20,3 +20,17 @@ C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin
 C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\ConsoleApp2.pdb
 C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\obj\Debug\net8.0\practiceC#.csproj.AssemblyReference.cache
 C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\obj\Debug\net8.0\practiceC#.csproj.CopyComplete
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\KioskProgram.deps.json
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\KioskProgram.runtimeconfig.json
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\KioskProgram.exe
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\KioskProgram.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\practiceC#\bin\Debug\net8.0\KioskProgram.pdb

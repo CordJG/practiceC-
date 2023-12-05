@@ -1,0 +1,5 @@
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache

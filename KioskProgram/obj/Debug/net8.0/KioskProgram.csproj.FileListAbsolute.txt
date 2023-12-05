@@ -13,3 +13,14 @@ C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\o
 C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\KioskProgram.pdb
 C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\KioskProgram.genruntimeconfig.cache
 C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\ref\KioskProgram.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\KioskProgram.csproj.AssemblyReference.cache
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\KioskProgram\obj\Debug\net8.0\KioskProgram.csproj.CopyComplete

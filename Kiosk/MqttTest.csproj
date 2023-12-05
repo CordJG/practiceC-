@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -8,7 +8,23 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MQTTnet" Version="4.3.1.873" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Contexts\" />
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KioskProgram\KioskProgram.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="KioskProgram">
+      <HintPath>..\KioskProgram\bin\Debug\net8.0\KioskProgram.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

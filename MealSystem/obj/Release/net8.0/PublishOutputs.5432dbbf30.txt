@@ -1,0 +1,11 @@
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MealSystem\obj\Release\net8.0\PubTmp\Out\MealSystem.exe
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MealSystem\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MealSystem\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MealSystem\obj\Release\net8.0\PubTmp\Out\MealSystem.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MealSystem\obj\Release\net8.0\PubTmp\Out\MealSystem.deps.json
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MealSystem\obj\Release\net8.0\PubTmp\Out\MealSystem.runtimeconfig.json
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MealSystem\obj\Release\net8.0\PubTmp\Out\MealSystem.pdb
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MealSystem\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MealSystem\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MealSystem\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wjrmf\OneDrive\바탕 화면\내 프로젝트\practiceC#\MealSystem\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
