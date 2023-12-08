@@ -6,11 +6,11 @@ namespace MealSystem.DTO
 {
     public class TicketDto 
     {
-        public Code? code { get; set; }
+        public string? code { get; set; }
         
-        public MealType? type { get; set; }
+        public MealType? mealType { get; set; }
 
-        public  CompNm?  compNm { get; set;}
+        public  string?  compNm { get; set;}
 
         public DateTime? startDt { get; set; }
 

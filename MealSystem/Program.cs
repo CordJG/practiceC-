@@ -1,3 +1,4 @@
+using MealSystem.Commons.Config;
 using MealSystem.Commons.Filters;
 using MealSystem.Contexts;
 using MealSystem.Libs;
@@ -20,8 +21,8 @@ builder.Services.AddDbContext<MealContext>(options => options.UseSqlServer(build
             errorNumbersToAdd: null
         )), ServiceLifetime.Singleton);
 
-/*builder.Services.AddAutoMapper(typeof(MapperProfiles));
-*/
+builder.Services.AddAutoMapper(typeof(MapperProfiles));
+
 // Add services to the container.
 builder.Services.AddControllers().AddNewtonsoftJson();
 

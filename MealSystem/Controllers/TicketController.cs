@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using AutoMapper;
 using MealSystem.Commons.Filters;
 using MealSystem.DTO;
-using Microsoft.AspNetCore.Http.HttpResults;
 using MealSystem.Models;
 
 namespace MealSystem.Controllers
@@ -36,7 +35,6 @@ namespace MealSystem.Controllers
             var ticket = _mapper.Map<Ticket>(_ticketDto);
 
             return Ok(_ticketLib.AddTicket(ticket));
-
 
         }
     }

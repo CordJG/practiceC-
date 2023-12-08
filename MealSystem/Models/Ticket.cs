@@ -1,5 +1,4 @@
 ﻿using MealSystem.Commons.Enums;
-using Microsoft.Identity.Client;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -11,13 +10,13 @@ namespace MealSystem.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public long? Id { get; set; }    
+        public long Id { get; set; }    
         
-        public Code? code { get; set; }
+        public string? code { get; set; }
 
         public MealType? mealType { get; set; }  
 
-        public CompNm? compNm { get; set; }
+        public string? compNm { get; set; }
 
         public DateTime? startDt { get; set; }
 
