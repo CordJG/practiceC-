@@ -5,20 +5,26 @@ using practiceC_;
 using KioskProgram;
 using System.Diagnostics;
 
-
 namespace HelloWrold
 {
-
-    delegate void PrintDelegate(string str);
     class Program
-    {
+    {   
+        
+        static public void MyHandler(string message)
+        {
+            Console.WriteLine(message);
+        }
         static void Main(string[] args)
         {
             
+             myNotifier = new MyNotifier();
+            myNotifier.SomethingHappened += new EventHandler(MyHandler);
+            for (int i = 1; i < 30; i++)
+            {
+                myNotifier.DoSomething(KeyNotFoundException);
+            }
 
-           
-
-            Console.WriteLine("실행하기 원하는 프로그램 번호를 입력해주세요");
+            Console.WriteLine("실행하기 원는 프로그램 번호를 입력해주세요");
             Console.WriteLine("1. 테트리스 실행하기 ,  2. 키오스크 프로그램 실행하기");
 
             
