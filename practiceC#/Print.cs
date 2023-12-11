@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-namespace HelloWrold
+namespace practiceC_
 {
     class Print
     {

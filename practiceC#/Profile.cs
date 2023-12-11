@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace practiceC_
 {
-    class PrintName
-
+    internal class Profile
     {
-        public void Print(string usrName)
-        {
-            Console.WriteLine("안녕하세요. {0}님", usrName);
-
-        }
+        public string Name { get; set; }
+        public int Height { get; set; }
+        
     }
+    
 }

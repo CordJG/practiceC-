@@ -19,4 +19,10 @@ namespace ConsoleApp2
             }
         }
     }
+
+    public struct MyStruct
+    {
+        int num;
+        public MyStruct(int num) { }
+    }
 }

@@ -1,11 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using System;
-using practiceC_;
-using KioskProgram;
 using System.Diagnostics;
 
-namespace HelloWrold
+namespace practiceC_
 {
     class Program
     {   
@@ -16,12 +13,43 @@ namespace HelloWrold
         }
         static void Main(string[] args)
         {
-            
-             myNotifier = new MyNotifier();
+
+            Profile[] arrProfile =
+            {
+                new Profile() {Name = "이재관" , Height = 50},
+                new Profile() {Name = "고양이" , Height=30},
+                new Profile() {Name = "강아지" , Height = 100},
+                new Profile() {Name = "이문세" , Height = 179}
+
+            };
+            var profiles = from profile in arrProfile
+                           where profile.Height < 170
+                           orderby profile.Height
+                           select profile;
+
+            foreach ( var profile in profiles)
+            {
+                Console.WriteLine("{0}, {1}",
+                    profile.Name, profile.Height);
+
+            }
+
+            int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            var result = from n in numbers
+                         where n % 2 == 0
+                         orderby n
+                         select n;
+
+            foreach (int n in result)
+            {
+                Console.WriteLine("짝수 : {0}", n);
+            }
+
+            MyNotifier myNotifier = new MyNotifier();
             myNotifier.SomethingHappened += new EventHandler(MyHandler);
             for (int i = 1; i < 30; i++)
             {
-                myNotifier.DoSomething(KeyNotFoundException);
+                myNotifier.DoSomething(i);
             }
 
             Console.WriteLine("실행하기 원는 프로그램 번호를 입력해주세요");
